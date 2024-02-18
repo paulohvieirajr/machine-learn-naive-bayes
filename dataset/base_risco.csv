@@ -1,0 +1,11 @@
+renda;tipo_divida;fiador;historico_credito;risco
+Acima de 40.000;Baixa;Possui;Ruim;Alto
+Entre 13.500 a 40.000;Alta;Possui;Ruim;Moderado
+Menor de 13.000;Baixa;Nao possui;Ruim;Baixo
+Menor de 13.000;Alta;Nao possui;Ruim;Baixo
+Acima de 40.000;Baixa;Possui;Nao possui;Moderado
+Entre 13.500 a 40.000;Baixa;Nao possui;Bom;Moderado
+Acima de 40.000;Baixa;Nao possui;Ruim;Alto
+Menor de 13.000;Alta;Nao possui;Nao possui;Baixo
+Menor de 13.000;Baixa;Nao possui;Nao possui;Baixo
+Acima de 40.000;Baixa;Possui;Bom;Alto
